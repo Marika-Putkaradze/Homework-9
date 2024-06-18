@@ -1,7 +1,13 @@
 
 Header{
     width: 1180px;
-    height: 50px;
+height: 50px;
+left: 130px;
+padding: 6px 0px 6px 0px;
+gap: 0px;
+opacity: 0px;
+margin: 50px 50px;
+
   }
 
   .head-logo{
@@ -37,9 +43,8 @@ Header{
   .user-icon{
     width: 24px;
 height: 24px;
-left: 346px;
-padding: 2px 0px 0px 0px;
-margin-inline: 24px;}
+left: 346px;}
+
 
 /*section */
 
@@ -81,7 +86,7 @@ color: white;
     
 }
 
-div{
+.div1{
     
     position: absolute;
     top: 50%;
@@ -136,4 +141,58 @@ h3{
 color: #000000;
 
 }
+
+
+
+.nature{
+
+    width: 380px;
+    height: 190px;
+    top: 79px;
+    left: 800px;
+}
+
+.nature1{
+    width: 780px;
+height: 400px;
+top: 79px;
+}
+
+.nature3{
+    width: 380px;
+    height: 190px;
+}
+
+.div2{
+    flex-direction: column;}
+    /*
+  background-color: blue;  /* 
+ /*აქ ძალიან გავიჭედე, ბოლო ფოტო სწორად ვერ განვალაგე */
+
+
+ .footerimg{
+    width: 38px;
+height: 38px;
+padding: 3.17px 0.79px 3.17px 6.33px;
+display: inline-block;
+    vertical-align: middle;
+
+ }
+ .footertext{
+    font-family: Pridi;
+font-size: 18px;
+font-weight: 400;
+line-height: 27.9px;
+text-align: left;
+display: inline-block;
+ }
+
+ .nav3{
+    width: 1440px;
+height: 100px;
+padding: 31px 0px 31px 0px;
+background: #000000;
+margin: 10% auto;
+
+ }
 
