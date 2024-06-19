@@ -98,9 +98,13 @@ color: white;
     width: 1180px;
 
 }
-
-
-
+@media (max-width: 768px) {
+    .div1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}
 /* section2*/
 
 h1{
