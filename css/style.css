@@ -1,4 +1,5 @@
 
+
 Header{
     width: 1180px;
 height: 50px;
@@ -98,6 +99,8 @@ color: white;
 
 }
 
+
+
 /* section2*/
 
 h1{
@@ -170,6 +173,8 @@ top: 79px;
  /*აქ ძალიან გავიჭედე, ბოლო ფოტო სწორად ვერ განვალაგე */
 
 
+
+/*footer */ 
  .footerimg{
     width: 38px;
 height: 38px;
@@ -195,4 +200,8 @@ background: #000000;
 margin: 10% auto;
 
  }
+
+ @media (max-width: 1024px) {
+
+ } 
 
